@@ -4,8 +4,7 @@ export const App = () => {
   return (
     <div>
       <h1>iam the heading tag</h1>
-      <p>hello world</p>
-      <h2>i am the heading tag 2</h2>
+      <h1>iam the js</h1>
     </div>
   )
 }
