@@ -9,6 +9,7 @@ export const App = () => {
       <h5>iam the yeddi</h5>
       <p>hello guys</p>
       <h1>iam the react app</h1>
+      <p>i am the main man</p>
     </div>
   )
 }
