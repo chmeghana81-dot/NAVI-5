@@ -5,6 +5,7 @@ export const App = () => {
     <div>
       <h1>iam the heading tag</h1>
       <p>hello world</p>
+      <h2>i am the heading tag 2</h2>
     </div>
   )
 }
