@@ -8,7 +8,7 @@ export const App = () => {
       <p>i am the javascript</p>
       <h5>iam the yeddi</h5>
       <p>hello guys</p>
-      <h5>iam peddi</h5>
+      <h1>iam the react app</h1>
     </div>
   )
 }
